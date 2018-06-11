@@ -16,4 +16,4 @@ As the model results show, both the time remaining and score margin are signific
 
 Obviously, having superstars like LeBron James or Kevin Durant on the court improves the Cavaliers and Warrior’s win probability at any given moment in the game. We would like to account for these types of player adjustments in a future win probability model. In the end, relying on the score differential and time remaining in the game is somewhat limited in terms of estimating win probability. 
 
-Read Here: 
+Read Here: https://wordpress.com/post/beyondtheaverage.wordpress.com/1408
